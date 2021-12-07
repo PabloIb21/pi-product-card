@@ -5,7 +5,7 @@ import { ProductCard, ProductImage, ProductTitle, ProductButtons } from '../src'
 
 const product = {
   id: '1',
-  title: 'Product 1',
+  title: 'Product',
 }
 
 const App = () => {
